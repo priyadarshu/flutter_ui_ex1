@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 
-void main()=>runApp(
-  MaterialApp(
-    home:HomePage(),
-  );
-);
+void main() => runApp(
+      MaterialApp(
+        home: HomePage(),
+      ),
+    );
 
 class HomePage extends StatefulWidget {
   @override
@@ -15,7 +15,14 @@ class _HomePageState extends State<HomePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      
+      backgroundColor: Colors.blueGrey,
     );
+  }
+}
+
+class MyApp extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Container();
   }
 }
