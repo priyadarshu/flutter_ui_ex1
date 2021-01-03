@@ -2,6 +2,11 @@
 
 A new Flutter project.
 
+
+# Sample output
+
+![](Screenshot_2021-01-02-00-46-06-214_com.example.flutter_ui_ex1.jpg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
